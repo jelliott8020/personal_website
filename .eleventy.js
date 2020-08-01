@@ -72,6 +72,9 @@ module.exports = function (config) {
     config.addPassthroughCopy('src/robots.txt')
     config.addPassthroughCopy('src/assets/images')
     config.addPassthroughCopy('src/assets/fonts')
+    config.addPassthroughCopy({
+        "node_modules/print-js/dist/print.js": "assets/print.js"
+    });
 
     // Deep-Merge
     config.setDataDeepMerge(true)

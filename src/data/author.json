@@ -1,44 +1,28 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
-    "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "name": "Josh Elliott",
+    "avatar": "Seattle4.jpeg",
+    "occupation": "Full-Stack Engineer",
+    "location": "Raleigh, NC",
+    "email": "hello@joshelliott.io",
+    "telephone": "(252) 722-3473",
+    "website": "https://joshelliott.io",
     "skills": [
-        "HTML",
-        "CSS",
-        "Javascript / ES6",
-        "UI Design",
-        "React",
+        "Java",
+        "Angular",
+        "(Java || Type)script",
+        "HTML/CSS",
         "Git"
-    ],
-    "languages": [
-        {
-            "name": "English",
-            "level": "native"
-        },
-        {
-            "name": "German",
-            "level": "fluent"
-        },
-        {
-            "name": "French",
-            "level": "basic"
-        }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@jelliott8020",
+            "url": "https://github.com/jelliott8020"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "josh-elliott8020",
+            "url": "https://www.linkedin.com/in/josh-elliott8020/"
         }
     ]
 }

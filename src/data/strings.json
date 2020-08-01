@@ -2,8 +2,7 @@
     "titles": {
         "experience": "Work Experience",
         "education": "Education",
-        "skills": "Skills",
-        "languages": "Languages"
+        "skills": "Skills"
     },
     "labels": {
         "email": "Email",

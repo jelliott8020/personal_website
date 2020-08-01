@@ -1,10 +1,16 @@
 ---
-title: Junior Developer
-organization: Mozilla
-organizationUrl: https://www.mozilla.org
-location: Mountain View, CA
-start: 2019-11-30
-end: 2020-03-14
+title: Software Engineer, Intern
+organization: TIAA
+organizationUrl: https://www.tiaa.org
+start: 2019-06-01
+end: 2019-08-01
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In nulla posuere sollicitudin aliquam ultrices sagittis orci. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Sit amet consectetur adipiscing elit.
+**Job Status Dashboard Web App (JavaScript, jQuery, C#, HTML/CSS, SQL)**
+• Saved the company $85k by creating a replacement for an old end of life program to be retired.
+• Queried and parsed an Oracle SQL database to obtain data to populate a jQuery DataTable.
+• Chaired calls and gave Webex presentations to get end user feedback on incremental progress.
+**PowerPoint Generator (C#, EPPlus)**
+• Developed a proof of concept that shows the ability to generate PowerPoint presentations programmatically.
+• Engineered the application to parse data from a .csv file, populate the presentation, and cache locally.
+• Implemented features to create custom text boxes and manipulate Excel to create charts and tables.
