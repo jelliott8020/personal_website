@@ -1,8 +1,8 @@
 ---
-title: Associate in Science
+title: Associate of Science
 organization: College of the Albemarle
 organizationUrl: https://www.albemarle.edu
 location: Elizabeth City, NC
-start: 2004-09-01
-end: 2012-07-01
+start: 2016-08-21
+end: 2017-07-25
 ---
