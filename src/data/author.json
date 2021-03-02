@@ -3,8 +3,8 @@
     "avatar": "Seattle4.jpeg",
     "occupation": "Full-Stack Engineer",
     "location": "Raleigh, NC",
-    "email": "hello@joshelliott.io",
-    "telephone": "(252) 722-3473",
+    //"email": "hello@joshelliott.io",
+    //"telephone": "(252) 722-3473",
     "website": "https://joshelliott.io",
     "skills": [
         "Java",
